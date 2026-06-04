@@ -1,0 +1,4 @@
+Nombre: Eduardo Murillo Lopez
+Edad: 22 años
+Fecha de nacimiento: 13/04/2004
+Color favorito: Naranja
